@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29fdacd5-66af-482f-828c-a87c604f46da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figure/OpenFigure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Point_class.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IMoveable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure/IMoveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IPolyPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure/IPolyPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure/IShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NGon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure/NGon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OpenFigure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure/Point3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polyline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure/Polyline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QGon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure/QGon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure/Segment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TGon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure/TGon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trapeze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure/Trapeze.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="module-info" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2FNueEMIAmmcnCei8GBaJm8jjWK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;16&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bread/Desktop/MinemJavafxUltra&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bread\IdeaProjects\Point_class\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bread\IdeaProjects\Point_class\src\JavaFX" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainController">
+    <configuration name="MainController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFX.MainController" />
+      <module name="Point_class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.javafxex_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramRead" />
+      <module name="Point_class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Point_class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="16" />
+      <option name="MAIN_CLASS_NAME" value="Figure.Program" />
+      <module name="Point_class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.MainController" />
+      <item itemvalue="Application.ProgramRead" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainController" />
+        <item itemvalue="Application.ProgramRead" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29fdacd5-66af-482f-828c-a87c604f46da" name="Changes" comment="" />
+      <created>1664344958203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664344958203</updated>
+      <workItem from="1664344960989" duration="2342000" />
+      <workItem from="1664794654728" duration="1305000" />
+      <workItem from="1664807505774" duration="1968000" />
+      <workItem from="1664883744733" duration="1848000" />
+      <workItem from="1664948192517" duration="2511000" />
+      <workItem from="1665053597357" duration="1538000" />
+      <workItem from="1665263773999" duration="19763000" />
+      <workItem from="1665382079192" duration="18539000" />
+      <workItem from="1665401547660" duration="203000" />
+      <workItem from="1665401863861" duration="9893000" />
+      <workItem from="1665424357762" duration="593000" />
+      <workItem from="1665434829677" duration="1307000" />
+      <workItem from="1665557346776" duration="367000" />
+      <workItem from="1665674664692" duration="783000" />
+      <workItem from="1665922577541" duration="1805000" />
+      <workItem from="1665924802539" duration="6568000" />
+      <workItem from="1665941686627" duration="709000" />
+      <workItem from="1665944584589" duration="5982000" />
+      <workItem from="1665982233743" duration="6294000" />
+      <workItem from="1665989424916" duration="17348000" />
+      <workItem from="1666016091088" duration="5624000" />
+      <workItem from="1666157649124" duration="4477000" />
+      <workItem from="1666162453834" duration="952000" />
+      <workItem from="1666195928887" duration="1811000" />
+      <workItem from="1666250057019" duration="7312000" />
+      <workItem from="1666356909003" duration="2567000" />
+      <workItem from="1666512706656" duration="12522000" />
+      <workItem from="1666536265544" duration="3234000" />
+      <workItem from="1666539648968" duration="9280000" />
+      <workItem from="1666595449347" duration="2517000" />
+      <workItem from="1666621983435" duration="5089000" />
+      <workItem from="1666649872828" duration="566000" />
+      <workItem from="1666650531013" duration="333000" />
+      <workItem from="1667124523826" duration="626000" />
+      <workItem from="1667125218986" duration="9147000" />
+      <workItem from="1667134804613" duration="15000" />
+      <workItem from="1667152469178" duration="2330000" />
+      <workItem from="1667156334649" duration="8605000" />
+      <workItem from="1667227072875" duration="188000" />
+      <workItem from="1667229473774" duration="1759000" />
+      <workItem from="1667389812023" duration="1609000" />
+      <workItem from="1667466858282" duration="3840000" />
+      <workItem from="1667594043124" duration="2427000" />
+      <workItem from="1667727195133" duration="1669000" />
+      <workItem from="1667749695110" duration="14058000" />
+      <workItem from="1667808163996" duration="3157000" />
+      <workItem from="1667813396577" duration="2758000" />
+      <workItem from="1667831819742" duration="846000" />
+      <workItem from="1667834006263" duration="2410000" />
+      <workItem from="1667994110099" duration="3190000" />
+      <workItem from="1668159610411" duration="3312000" />
+      <workItem from="1668171322216" duration="15788000" />
+      <workItem from="1668322063906" duration="3931000" />
+      <workItem from="1668353624495" duration="9991000" />
+      <workItem from="1668364434590" duration="1130000" />
+      <workItem from="1668365589023" duration="17963000" />
+      <workItem from="1668412479669" duration="4124000" />
+      <workItem from="1668436865931" duration="611000" />
+      <workItem from="1668737169916" duration="835000" />
+      <workItem from="1669486660540" duration="1571000" />
+      <workItem from="1669563796479" duration="269000" />
+      <workItem from="1669717684033" duration="68000" />
+      <workItem from="1669719078409" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity"
+            minWidth="-Infinity" prefHeight="495.0" prefWidth="698.0"
+            xmlns="http://javafx.com/javafx/19"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="JavaFX.AppController">
+   <children>
+      <Button fx:id="addShape" layoutX="539.0" layoutY="60.0"
+              mnemonicParsing="false" text="Добавить фигуру" />
+      <Button fx:id="saveFile" layoutX="542.0" layoutY="96.0"
+              mnemonicParsing="false" text="Сохранить файл" />
+      <Button fx:id="downloadFile" layoutX="545.0" layoutY="132.0"
+              mnemonicParsing="false" text="Загрузить файл" />
+      <Button fx:id="saveImage" layoutX="519.0" layoutY="168.0"
+              mnemonicParsing="false" text="Сохранить изображение" />
+      <Button fx:id="shiftShape" layoutX="530.0" layoutY="204.0"
+              mnemonicParsing="false" text="Переместить фигуру" />
+      <Button fx:id="deleteShape" layoutX="544.0" layoutY="240.0"
+              mnemonicParsing="false" text="Удалить фигуру" />
+      <Button fx:id="clean" layoutX="561.0" layoutY="276.0"
+              mnemonicParsing="false" text="Очистить" />
+      <Button fx:id="squareShape" layoutX="539.0" layoutY="312.0"
+              mnemonicParsing="false" text="Площадь фигуры" />
+      <Button fx:id="lengthShape" layoutX="537.0" layoutY="348.0"
+              mnemonicParsing="false" text="Периметр фигуры" />
+      <Button fx:id="crossShape" layoutX="532.0" layoutY="384.0"
+              mnemonicParsing="false" text="Пересечение фигур" />
+      <Canvas fx:id="canvas" height="438.0" layoutX="33.0"
+              layoutY="32.0" width="434.0" />
+   </children>
+</AnchorPane>
